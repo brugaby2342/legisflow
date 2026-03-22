@@ -56,21 +56,22 @@ O sistema utiliza um modelo relacional para garantir a integridade:
 - O azul marinho remete à sobriedade do Direito e dos Registros Públicos.
 - As etiquetas mudam de cor e estado assim que o usuário confirma a leitura.
 
-## 🔗 Links do Projeto
-- **Aplicação Funcional:** [LegisFlow](https://gabrielarsartor-27255.bubbleapps.io/version-test)
-- **Vídeo Pitch:** []
+## Acesse e teste o **LegisFlow** através do link da aplicação:
+🔗 [LegisFlow](https://gabrielarsartor-27255.bubbleapps.io/version-test)
+
+> Cadastre-se e faça log-in. Na página principal (Dashboard), você terá acesso às normas recentemente publicadas pelo Oficial. Você pode dar seu ciente e comentar. Pela side bar, através do menu, terá a opção de acessar a biblioteca de normas, onde encontrará o histórico de publicações e seu progresso nas leituras.
+Observação: para ter acesso a menu "Admministrativo", terá que cadastrar direto no banco de dados, um user como Oficial. Nesta área, você poderá cadastrar novas normas e fiscalizar o processamento.
 
 ---
 
-## 📖 Documentação Acadêmica
-
+### 📖 [Documentação Acadêmica](https://github.com/brugaby2342/legisflow/blob/main/assets/Projeto%20Bubble.pdf)
 
 ---
 
 ### 👩‍💻 Desenvolvedora
 **Bruna Gabriela Ribeiro Sartor** 
-Escrevente no Registro de Imóveis de Curitibanos/SC.  
-Estudante de IA e Automação Digital.
+*Escrevente no Registro de Imóveis de Curitibanos/SC.  
+Estudante de IA e Automação Digital.*
 
 ---
 *Nota: Este projeto encontra-se em ambiente de versão-test (Development).*
