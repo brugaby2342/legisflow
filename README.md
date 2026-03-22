@@ -60,7 +60,11 @@ O sistema utiliza um modelo relacional para garantir a integridade:
 [LegisFlow](https://gabrielarsartor-27255.bubbleapps.io/version-test)
 
 > Cadastre-se e faça log-in. Na página principal (Dashboard), você terá acesso às normas recentemente publicadas pelo Oficial. Você pode dar seu ciente e comentar. Pela side bar, através do menu, terá a opção de acessar a biblioteca de normas, onde encontrará o histórico de publicações e seu progresso nas leituras.
-Observação: para ter acesso a menu "Admministrativo", terá que cadastrar direto no banco de dados, um user como Oficial. Nesta área, você poderá cadastrar novas normas e fiscalizar o processamento.
+Observação: para ter acesso ao menu "Administrativo", entre com o seguinte user:
+> - e-mail: carlos.oficial@cartorio.com
+> - senha: 123456
+
+>  Nesta área, você poderá cadastrar novas normas e fiscalizar o processamento.
 
 ---
 
