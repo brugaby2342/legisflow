@@ -18,7 +18,7 @@ O **LegisFlow** oferece:
 - **Para o Escrevente:** Dashboard com lista de normas pendentes, leitura de PDF integrada e fórum de debates.
 - **Para o Oficial:** Cadastro de normas em "Cards", anexos de arquivos e uma **Tabela de Conformidade** para monitoramento.
 
-### Fluxo Básico da Aplicação:
+## :on: Fluxo Básico da Aplicação:
 1. **Cadastro de Tarefa:** O Oficial cadastra uma nova norma.
 2. **Checklist de Ciência:** Cada escrevente visualiza o PDF e marca como "Ciente e Lido".
 3. **Fórum Técnico:** Discussões práticas sobre a norma ocorrem abaixo do documento, centralizando o aprendizado.
@@ -44,7 +44,7 @@ O sistema utiliza um modelo relacional para garantir a integridade:
 - **KPI Cards:** Indicadores de produtividade no topo do Dashboard.
 - **Segurança:** Regras de privacidade que protegem dados sensíveis conforme a hierarquia do cartório.
 
-## Privacidade
+## :lock: Privacidade
 - Dois níveis de acesso:
   - Dashboard do Escrevente: Focado em produtividade e leitura.
   - Painel Administrativo: Focado em gestão, cadastro e fiscalização (*Compliance*).
